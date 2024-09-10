@@ -1,0 +1,29 @@
+# Dadosfera Support Enhancements
+
+## Overview
+This project focuses on enhancing customer support and interaction in the Dadosfera platform through AI-powered chatbots, automated data pipelines, and visualizations.
+
+## Project Contents
+
+### 1. Chatbot Implementation
+
+- **AI Chatbot**: Implementation of an AI-powered chatbot to improve customer satisfaction and engagement.
+- **Image**: [AI Chatbot Implementation](chatbot/Ai_chatbot.png)
+- **Markdown**: Step-by-step guide for integrating an AI chatbot in the Dadosfera platform. Check the [Chatbot Implementation Documentation](chatbot/Chatbot_implementation.md).
+
+### 2. Visualization
+
+- **Pie Chart Visualization**: A Python-based pie chart visualization that displays sales data across 10 months.
+- **Python Code**: [Visualization Pie Chart Code](visualization/visualization_pieChat.py)
+- **SQL Query**: [SQL Query for Pie Chart Data](visualization/visualization_pieChat.sql)
+
+### 3. Support Analysis
+
+- **Support Flowchart**: A flowchart depicting the interaction between the user, chatbot, documentation, and the human support team.
+- **Image**: [Support Flowchart](support/dadoofera_supoort_img.png)
+- **Markdown**: Documentation outlining common support issues and solutions. See the [Support Analysis Documentation](support/support_analysis.md).
+
+## Resources
+
+- **YouTube Video**: [Overview of the Project](https://youtu.be/sAC9HWieXqE)
+- **GitHub Link**: [GitHub Repository](https://github.com/AlbertJohnson994/ALBERT_JOHNSON_DDF_SUPORTE_2024_09./tree/main)
